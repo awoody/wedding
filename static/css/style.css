@@ -56,11 +56,6 @@ body
     font-family: 'Fredericka the Great', cursive;
 }
 
-a
-{
-    text-decoration: none;
-}
-
 .leftFloatingImage
 {
     float: left;
@@ -117,6 +112,11 @@ a
     margin: 0px;
     list-style-type: none;
     padding: 0px;
+}
+
+.menu ul li a
+{
+    text-decoration: none;
 }
 
 .menu ul li a.selected
