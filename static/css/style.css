@@ -1,0 +1,151 @@
+@import url(http://fonts.googleapis.com/css?family=Lora);
+@import url(http://fonts.googleapis.com/css?family=Fredericka+the+Great);
+
+html
+{
+    height: 100%;
+}
+
+body
+{
+    background-color: #1a1313;
+    margin: 0px;
+    height: 100%;
+    font-family: 'Lora', serif;
+}
+
+.contentWrapper
+{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    height:auto !important; /* real browsers */
+    height:100%; /* IE6: treaded as min-height*/
+    width: 914px;
+}
+
+.content
+{
+    float: left;
+    background-color: #f4ede7;
+    border-right: 7px solid #47373a;
+    border-left: 7px solid #47373a;
+}
+
+.textBody
+{
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.textBody .section
+{
+    float: left;
+}
+
+.textBody .halfSection
+{
+    float: left;
+    width: 50%;
+}
+
+.heading
+{
+    font-family: 'Fredericka the Great', cursive;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+.leftFloatingImage
+{
+    float: left;
+    margin-right: 15px;
+}
+
+.large
+{
+    font-size: 30px;
+}
+
+.medium
+{
+    font-size: 25px;
+}
+
+.small
+{
+    font-size: 20px;
+}
+
+.textBlock
+{
+    font-size: 17px;
+}
+
+.pageTitle
+{
+    text-align: center;
+}
+
+.header
+{
+    float: left;
+    font-family: 'Fredericka the Great', cursive;
+    background-image: url("../images/header.png");
+    width: 900px;
+    height: 398px;
+}
+
+.menu
+{
+    width: 300px;
+    height: 150px;
+    margin: 0px;
+    position: relative;
+    top: 184px;
+    left: 290px;
+}
+
+.menu ul
+{
+    text-align: center;
+    margin: 0px;
+    list-style-type: none;
+    padding: 0px;
+}
+
+.menu ul li a.selected
+{
+    color: #2b820c;
+}
+
+.menu ul li a.selected:hover
+{
+    color: #000000;
+}
+
+.menu ul li a.unselected
+{
+    color: #000000;
+}
+
+.menu ul li a.unselected:hover
+{
+    color: #2b820c;
+}
+
+.menu ul li
+ {
+     font-size: 20px;
+     margin: 0px;
+ }
+
+.menu ul li:hover
+{
+    cursor: pointer;
+}

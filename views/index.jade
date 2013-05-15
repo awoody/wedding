@@ -1,0 +1,22 @@
+extends layout
+
+block content
+    div(class="textBody")
+        h1(class="heading large")   Welcome
+        p(class="textBlock")  Welcome to our website!
+        p(class="textBlock")
+            | We have scheduled our ceremony for
+            | Novermber 2nd, 2013 in Albuquerque, New Mexico.
+
+        p(class="textBlock")
+            | We will be adding in more information in the next couple of weeks,
+            | so please stop by often!
+
+
+
+
+        script
+            $(document).ready(function (){
+                $('#welcome').addClass('selected').removeClass('unselected');
+            });
+
