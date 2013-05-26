@@ -43,6 +43,7 @@ body
 .textBody .section
 {
     float: left;
+    margin-top: 40px;
 }
 
 .textBody .halfSection
@@ -60,6 +61,14 @@ body
 {
     float: left;
     margin-right: 15px;
+    border: 2px solid #47373a;
+}
+
+.rightFloatingImage
+{
+    float: right;
+    margin-left: 15px;
+    border: 2px solid #47373a;
 }
 
 .large
