@@ -77,6 +77,10 @@ server.get('/party', function(req,res){
     genericRender('party.jade', res);
 });
 
+server.get('/todo', function(req,res){
+    genericRender('todo.jade', res);
+});
+
 server.get('/accommodations', function(req,res){
     genericRender('accommodations.jade', res);
 });
