@@ -17,7 +17,7 @@
     <file path="/registry.jade" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1368505087434" ignored="false" />
     <file path="/photos.jade" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1368505103775" ignored="false" />
     <file path="/party.jade" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1369608988989" ignored="false" />
-    <file path="/faq.jade" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1369706590762" ignored="false" />
+    <file path="/faq.jade" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1369707030110" ignored="false" />
     <file path="/accommodations.jade" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1369615191919" ignored="false" />
     <file path="/transportation.jade" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1369615052460" ignored="false" />
     <file path="/todo.jade" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1369620206436" ignored="false" />
@@ -44,7 +44,7 @@
       <file leaf-file-name="faq.jade" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/faq.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="57" selection-start="1053" selection-end="1053" vertical-scroll-proportion="0.6112805">
+            <state line="26" column="62" selection-start="868" selection-end="868" vertical-scroll-proportion="0.5335366">
               <folding />
             </state>
           </provider>
@@ -299,12 +299,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="10" width="1900" height="1040" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18860827" sideWeight="0.77324265" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18860827" sideWeight="0.77324265" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -467,7 +467,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/faq.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="57" selection-start="1053" selection-end="1053" vertical-scroll-proportion="0.6112805">
+        <state line="26" column="62" selection-start="868" selection-end="868" vertical-scroll-proportion="0.5335366">
           <folding />
         </state>
       </provider>
