@@ -140,6 +140,15 @@ body
     left: 290px;
 }
 
+.faqList
+{
+    margin-top: 20px;
+    display: block;
+    float: left;
+    width: 100%;
+
+}
+
 .menu ul
 {
     text-align: center;

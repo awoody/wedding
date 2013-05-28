@@ -7,14 +7,55 @@ block content
 
             h1(class="heading large") Frequently Asked Questions
 
+            div(class="faqList")
+                ul
+                    li
+                        a(href = "#contact") Who do I contact if I need help?
+                    li
+                        a(href = "#transportationQuestion") Is transportation provided?
+                    li
+                        a(href = "#rsvpQuestion") When is the RSVP deadline?
+                    li
+                        a(href = "#clothesQuestion") What should I wear?
+                    li
+                        a(href = "#weatherQuestion") What will the weather be like?
+
+
             div(class="faqItem")
 
-                h2(class="faqTitle medium")   Is transportation provided?
+                h2(class="faqTitle medium", id="contact")   Who do I call?!
                 p(class="faqAnswer")
-                    | If you choose to stay at the Sheraton Albuquerque Uptown, we will provide
+                    | If you have any issues with the website or any questions, please contact
+                    | Alex (alex.woody@gmail.com) or Andrea (andrea.steiling@gmail.com).
+
+                h2(class="faqTitle medium", id="transportationQuestion")   Is transportation provided?
+                p(class="faqAnswer")
+                    | If you <a href="./accommodations" target="#">choose to stay</a> at the Sheraton Albuquerque Uptown, we will provide
                     | transportation to and from the Ceremony and Reception. <br /> <br />
                     | Guests are responsible for transportation to and from the airport.  Please
                     | see the <a href="./transportation">transportation</a> page for more details.
+
+                h2(class="faqTitle medium", id="rsvpQuestion")   When is the RSVP Deadline?
+                p(class="faqAnswer")
+                    | <a href="./rsvp" target ="#">Please RSVP</a> and <a href="./accommodations" target="#">confirm your hotel reservations</a> as soon as possible.  The
+                    | RSVP deadline is September 1, 2013.
+
+                h2(class="faqTitle medium", id="clothesQuestion")   What should I wear?
+                p(class="faqAnswer")
+                    | Attire is seasonal semiformal.  Feel free to wear colorful, festive clothing,
+                    | bearing in mind the <a href="#weatherQuestion">weather considerations</a>.
+
+                h2(class="faqTitle medium", id="weatherQuestion")   What will the weather be like?
+                p(class="faqAnswer")
+                    | First of all, we are hoping to have the wedding outside, but the weather
+                    | at that time of year is not easy to predict.  We have both an outside
+                    | an inside option available, and we will make the final decision based
+                    | on the weather the day of the ceremony.  That being said, it could
+                    | be t-shirt weather or it could be snowing. The average daytime
+                    | temperature in November is 56 with a low of 34, but the average
+                    | in October is 69.  Since we're so close to October, 61-62 is probably
+                    | a more reasonable guess.
+
 
     script
         $(document).ready(function (){
