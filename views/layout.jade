@@ -24,15 +24,22 @@ html.no-js(lang='en')
         window.jQuery || document.write('<script src="js/libs/jquery-1.7.1.min.js"><\\/script>')
 
     script
-        $(document).ready(function (){
-            var contentHeight = $('#content').outerHeight();
-            var windowHeight = window.innerHeight;
-                             console.log(contentHeight + "  " + windowHeight);
-            if(contentHeight < windowHeight)
-            {
-                $('#content').height(windowHeight);
-            }
-        });
+
+        var calculateHeight = function()
+        {
+            console.log("Do height calculation");
+
+           var contentHeight = $('#content').outerHeight();
+           var windowHeight = $(window).outerHeight();
+
+           console.log("window height: " + windowHeight);
+           console.log("content height: " + contentHeight);
+
+           if(contentHeight < windowHeight)
+           {
+               $('#content').height(windowHeight);
+           }
+        };
 
   body
 

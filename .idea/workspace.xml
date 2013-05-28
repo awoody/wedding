@@ -4,18 +4,18 @@
     <list default="true" id="8362472c-d0bc-491b-aa43-1d0c097b8a26" name="Default" comment="" />
     <ignored path="WeddingWebsite.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.jade" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1369612512092" ignored="false" />
+    <file path="/index.jade" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1369709264346" ignored="false" />
     <file path="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/testing/index.js" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1368296006321" ignored="false" />
     <file path="$PROJECT_DIR$/node_modules/express/lib/view.js" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1368296006321" ignored="false" />
     <file path="/server.js" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1368505311789" ignored="false" />
-    <file path="/layout.jade" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1369613443245" ignored="false" />
-    <file path="/style.css" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1369705786279" ignored="false" />
+    <file path="/layout.jade" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1369709117084" ignored="false" />
+    <file path="/style.css" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1369709062674" ignored="false" />
     <file path="/index.html" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1368402842629" ignored="false" />
     <file path="/index2.html" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1368403095316" ignored="false" />
     <file path="/muertos.jade" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1369705062207" ignored="false" />
     <file path="/rsvp.jade" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1369605370475" ignored="false" />
     <file path="/registry.jade" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1368505087434" ignored="false" />
-    <file path="/photos.jade" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1368505103775" ignored="false" />
+    <file path="/photos.jade" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1369708841335" ignored="false" />
     <file path="/party.jade" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1369608988989" ignored="false" />
     <file path="/faq.jade" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1369707030110" ignored="false" />
     <file path="/accommodations.jade" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1369615191919" ignored="false" />
@@ -41,10 +41,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="faq.jade" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="faq.jade" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/faq.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="62" selection-start="868" selection-end="868" vertical-scroll-proportion="0.5335366">
+            <state line="26" column="52" selection-start="868" selection-end="868" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="photos.jade" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/views/photos.jade">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="52" selection-start="512" selection-end="512" vertical-scroll-proportion="0.40396342">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rsvp.jade" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/rsvp.jade">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="76" selection-start="56" selection-end="56" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -53,7 +71,25 @@
       <file leaf-file-name="layout.jade" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/layout.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="65" selection-start="2652" selection-end="2652" vertical-scroll-proportion="0.0">
+            <state line="27" column="12" selection-start="923" selection-end="938" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.jade" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/index.jade">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="16" selection-start="874" selection-end="892" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="registry.jade" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/registry.jade">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="52" selection-start="410" selection-end="410" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -62,7 +98,7 @@
       <file leaf-file-name="todo.jade" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/todo.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="145" column="76" selection-start="12230" selection-end="12232" vertical-scroll-proportion="0.0">
+            <state line="8" column="0" selection-start="155" selection-end="324" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -80,7 +116,7 @@
       <file leaf-file-name="muertos.jade" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/muertos.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="51" selection-start="1454" selection-end="1454" vertical-scroll-proportion="0.0">
+            <state line="26" column="16" selection-start="1504" selection-end="1620" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -89,7 +125,7 @@
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="144" column="21" selection-start="1928" selection-end="1928" vertical-scroll-proportion="0.0">
+            <state line="157" column="43" selection-start="2115" selection-end="2115" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -107,19 +143,19 @@
       <list>
         <option value="$PROJECT_DIR$/static/html/index.html" />
         <option value="$PROJECT_DIR$/views/index2.html" />
-        <option value="$PROJECT_DIR$/views/registry.jade" />
-        <option value="$PROJECT_DIR$/views/photos.jade" />
         <option value="$PROJECT_DIR$/views/party.jade" />
         <option value="$PROJECT_DIR$/views/rsvp.jade" />
-        <option value="$PROJECT_DIR$/views/index.jade" />
         <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/views/accommodations.jade" />
         <option value="$PROJECT_DIR$/views/transportation.jade" />
         <option value="$PROJECT_DIR$/views/todo.jade" />
-        <option value="$PROJECT_DIR$/views/layout.jade" />
         <option value="$PROJECT_DIR$/views/muertos.jade" />
-        <option value="$PROJECT_DIR$/static/css/style.css" />
         <option value="$PROJECT_DIR$/views/faq.jade" />
+        <option value="$PROJECT_DIR$/static/css/style.css" />
+        <option value="$PROJECT_DIR$/views/layout.jade" />
+        <option value="$PROJECT_DIR$/views/index.jade" />
+        <option value="$PROJECT_DIR$/views/registry.jade" />
+        <option value="$PROJECT_DIR$/views/photos.jade" />
       </list>
     </option>
   </component>
@@ -390,29 +426,9 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/photos.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="22" selection-start="315" selection-end="315" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/registry.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="24" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/rsvp.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="98" selection-start="509" selection-end="509" vertical-scroll-proportion="0.33689025" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/party.jade">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="0" selection-start="57" selection-end="825" vertical-scroll-proportion="0.12957317" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/index.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="62" selection-start="487" selection-end="487" vertical-scroll-proportion="0.23323171" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/app/server.js">
@@ -437,37 +453,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/views/faq.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="52" selection-start="868" selection-end="868" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/views/todo.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="145" column="76" selection-start="12230" selection-end="12232" vertical-scroll-proportion="0.0">
+        <state line="8" column="0" selection-start="155" selection-end="324" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/layout.jade">
+    <entry file="file://$PROJECT_DIR$/views/rsvp.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="65" selection-start="2652" selection-end="2652" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/muertos.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="51" selection-start="1454" selection-end="1454" vertical-scroll-proportion="0.0">
+        <state line="4" column="76" selection-start="56" selection-end="56" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="144" column="21" selection-start="1928" selection-end="1928" vertical-scroll-proportion="0.0">
+        <state line="157" column="43" selection-start="2115" selection-end="2115" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/faq.jade">
+    <entry file="file://$PROJECT_DIR$/views/muertos.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="62" selection-start="868" selection-end="868" vertical-scroll-proportion="0.5335366">
+        <state line="26" column="16" selection-start="1504" selection-end="1620" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layout.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="12" selection-start="923" selection-end="938" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="16" selection-start="874" selection-end="892" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/registry.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="52" selection-start="410" selection-end="410" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/photos.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="52" selection-start="512" selection-end="512" vertical-scroll-proportion="0.40396342">
           <folding />
         </state>
       </provider>

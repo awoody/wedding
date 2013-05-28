@@ -3,13 +3,36 @@ extends layout
 block content
     div(class="textBody")
 
-        div(class="section")
+        div(class="section", id="photoHolder")
 
-            h1(class="heading large")   Under Construction
+            h1(class="heading large")   Photos
+
             p(class="textBlock")
-                | Check back soon for updates on this section.
+                | This page is just a collection of some of our favorite photos from the
+                | last few years!
 
     script
+
+        var delayHeightCalculation = true;
+
         $(document).ready(function (){
             $('#photos').addClass('selected').removeClass('unselected');
+
+            var totalImages = 12;
+
+            for(var i=1; i <= totalImages; i++)
+            {
+                addPhoto(i);
+            }
         });
+
+        var addPhoto = function(index)
+        {
+            console.log("Add image");
+            var location = "./images/slideshow/";
+            $("#photoHolder")
+                .append($("<img>")
+                .attr("class", "slideshowImage")
+                .attr("src", location + index + ".jpg")
+                .attr("width", "400px"));
+        };
