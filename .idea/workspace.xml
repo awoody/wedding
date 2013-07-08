@@ -2,20 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8362472c-d0bc-491b-aa43-1d0c097b8a26" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/Thumbs.db" afterPath="$PROJECT_DIR$/images/Thumbs.db" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/Thumbs.db" afterPath="$PROJECT_DIR$/static/images/Thumbs.db" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/slideshow/Thumbs.db" afterPath="$PROJECT_DIR$/static/images/slideshow/Thumbs.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/jen.jpg" afterPath="$PROJECT_DIR$/static/images/jen.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/party.jade" afterPath="$PROJECT_DIR$/views/party.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/photos.jade" afterPath="$PROJECT_DIR$/views/photos.jade" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="WeddingWebsite.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.jade" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1369709264346" ignored="false" />
+    <file path="/index.jade" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1371530769655" ignored="false" />
     <file path="$PROJECT_DIR$/node_modules/mocha/node_modules/jade/testing/index.js" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1368296006321" ignored="false" />
     <file path="$PROJECT_DIR$/node_modules/express/lib/view.js" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1368296006321" ignored="false" />
-    <file path="/server.js" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1368505311789" ignored="false" />
-    <file path="/layout.jade" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1369709117084" ignored="false" />
+    <file path="/server.js" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1371530550947" ignored="false" />
+    <file path="/layout.jade" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1371530740408" ignored="false" />
     <file path="/style.css" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1369885099383" ignored="false" />
     <file path="/index.html" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1368402842629" ignored="false" />
     <file path="/index2.html" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1368403095316" ignored="false" />
@@ -29,7 +27,7 @@
     <file path="/transportation.jade" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1369615052460" ignored="false" />
     <file path="/todo.jade" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1369620206436" ignored="false" />
     <file path="/a.dummy" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1369615276820" ignored="false" />
-    <file path="/Dummy.txt" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1371412213367" ignored="false" />
+    <file path="/Dummy.txt" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1373253784183" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/relaxng.rng" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1371412215376" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/standardSchemas/xslt-2_0.xsd" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1371412215376" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/standardSchemas/xml.xsd" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1371412215376" ignored="false" />
@@ -44,6 +42,9 @@
     <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/standardSchemas/XMLSchema.xsd" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1371412215376" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/standardSchemas/xinclude.xsd" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1371412215376" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/standardSchemas/xslt-1_0.xsd" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1371412215376" ignored="false" />
+    <file path="$PROJECT_DIR$/../HackMe/views/index.jade" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1371530771576" ignored="false" />
+    <file path="$PROJECT_DIR$/../HackMe/views/layout.jade" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1371530760734" ignored="false" />
+    <file path="$PROJECT_DIR$/../HackMe/server.js" changelist="8362472c-d0bc-491b-aa43-1d0c097b8a26" time="1371530551384" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,10 +64,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="photos.jade" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="photos.jade" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/photos.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="29" selection-start="320" selection-end="320" vertical-scroll-proportion="0.0">
+            <state line="24" column="45" selection-start="604" selection-end="604" vertical-scroll-proportion="0.46153846">
               <folding />
             </state>
           </provider>
@@ -84,7 +85,7 @@
       <file leaf-file-name="layout.jade" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/layout.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="100" selection-start="1368" selection-end="1368" vertical-scroll-proportion="0.0">
+            <state line="40" column="62" selection-start="1368" selection-end="1368" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -144,10 +145,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="party.jade" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="party.jade" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/party.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="34" selection-start="827" selection-end="827" vertical-scroll-proportion="0.072271384">
+            <state line="18" column="76" selection-start="856" selection-end="856" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -182,10 +183,10 @@
         <option value="$PROJECT_DIR$/views/layout.jade" />
         <option value="$PROJECT_DIR$/views/index.jade" />
         <option value="$PROJECT_DIR$/views/registry.jade" />
-        <option value="$PROJECT_DIR$/views/photos.jade" />
         <option value="$PROJECT_DIR$/views/muertos.jade" />
         <option value="$PROJECT_DIR$/static/css/style.css" />
         <option value="$PROJECT_DIR$/views/party.jade" />
+        <option value="$PROJECT_DIR$/views/photos.jade" />
       </list>
     </option>
   </component>
@@ -253,6 +254,60 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WeddingWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WeddingWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WeddingWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WeddingWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WeddingWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WeddingWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="slideshow" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -261,14 +316,14 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/server.js" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/server.js" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -336,7 +391,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -346,7 +401,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22637363" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22637363" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -447,9 +502,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/faq.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="52" selection-start="868" selection-end="868" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="26" column="52" selection-start="868" selection-end="868" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/todo.jade">
@@ -480,23 +533,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/photos.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="29" selection-start="320" selection-end="320" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/muertos.jade">
       <provider selected="true" editor-type-id="text-editor">
         <state line="35" column="65" selection-start="2235" selection-end="2235" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/layout.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="100" selection-start="1368" selection-end="1368" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -517,7 +556,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/party.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="34" selection-start="827" selection-end="827" vertical-scroll-proportion="0.072271384">
+        <state line="18" column="76" selection-start="856" selection-end="856" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layout.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="62" selection-start="1368" selection-end="1368" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/photos.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="45" selection-start="604" selection-end="604" vertical-scroll-proportion="0.46153846">
           <folding />
         </state>
       </provider>
